@@ -15,10 +15,10 @@
 <li>Sugar Cane Juice</li>
 <li>Torcida Snacks</li>
 </ol></section>
-<h3>Achieviments</h3><section>
-  <p>Progress in this course  <progress value="100" max="100"></p>
-  <p>Progress in Specialization Capstone  <progress value="5" max="100"></p>
-  <p>Progress in life goals  <progress value="35" max="100"></p> </section>
+<h3>Achieviments</h3><section><ul>
+<li><p>Progress in this course  <progress value="100" max="100"></p></li>
+<li><p>Progress in Specialization Capstone  <progress value="5" max="100"></p></li>
+<li><p>Progress in life goals  <progress value="35" max="100"></p></li></ul></section>
  <div></div>
  <h4>More About Me</h4> 
 <section><h5>My Childhood</h5>
