@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
+ 
 <head>
 
 </head>
 <body>
-
-<h1>Rafael Gomes Camizão Lima</h1>
+<font
+      <h1 style="color:#008B8B"><p "font-family:'Courier New'">Rafael Gomes Camizão Lima</p></h1>
 
 <section><b><h2>Favorite Foods</h2></b>
 <ol>
