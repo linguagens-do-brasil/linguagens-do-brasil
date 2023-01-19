@@ -18,14 +18,16 @@
 <li><p>Progress in this course  <progress value="100" max="100"></p></li>
 <li><p>Progress in Specialization Capstone  <progress value="5" max="100"></p></li>
 <li><p>Progress in life goals  <progress value="35" max="100"></p></li></ul></section>
- <div></div>
- <h4>More About Me</h4> 
-<section><h5>My Childhood</h5>
-<p>I was born in São Paulo - SP, Brazil, in jun 2000. I g.</p></section>
+<div></div>
+<h4>More About Me</h4> 
+<details>
+  <summary>My Childhood</summary>
+  <p>I was born in São Paulo - SP, Brazil, in jun 2000. I g.</p>
+</details>
 
 <footer>
 <img src="newlogo.png" alt="New Logo" width="300" height="200">
-<p>This site was created by Rafael Gomes Camizão and Colleen Van Lent. To learn more about web design, visit <a href=https://www.coursera.org/courses>Intro to Web Design.</a></p>
+<p>This site was created by Rafael Gomes Camizão and Colleen Van Lent. To learn more about web design, visit <a href=https://www.coursera.org/>Intro to Web Design.</a></p>
 </footer>
   
 </body>
