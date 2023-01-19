@@ -17,9 +17,9 @@
 
  <h3 style="color:#008000">Achieviments</h3>
  <section><p><ul>
-  <li>Progress in this course  <progress value="100" max="100"></li>
-  <li>Progress in Specialization Capstone  <progress value="5" max="100"></li>
-  <li>Progress in life goals  <progress value="35" max="100"></li>
+  <li>Progress in this course:   <progress value="100" max="100"></li>
+  <li>Progress in Specialization Capstone:   <progress value="5" max="100"></li>
+  <li>Progress in life goals:   <progress value="35" max="100"></li>
   </ul></section>
 
 <h4 style="color:#008000">More About Me</h4> 
