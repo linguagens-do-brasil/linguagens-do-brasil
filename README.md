@@ -15,13 +15,13 @@
 <li>Sugar Cane Juice</li>
 <li>Torcida Snacks</li>
 </ol></section>
-<section><h3>Achieviments</h3>
+<h3>Achieviments</h3><section>
   <p>Progress in this course  <progress value="100" max="100"></p>
   <p>Progress in Specialization Capstone  <progress value="5" max="100"></p>
-  <p>Progress in life goals  <progress value="35" max="100"></p>
-</section>
-<section><h4>More About Me</h4> 
-<h5>My Childhood</h5>
+  <p>Progress in life goals  <progress value="35" max="100"></p> </section>
+ <div></div>
+ <h4>More About Me</h4> 
+<section><h5>My Childhood</h5>
 <p>I was born in São Paulo - SP, Brazil, in jun 2000. I g.</p></section>
 
 <footer>
