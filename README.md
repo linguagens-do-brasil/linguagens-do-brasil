@@ -16,9 +16,9 @@
 <li>Torcida Snacks</li>
 </ol></section>
 <section><h3>Achieviments</h3>
-  <p>Progress in this course <progress value="100" max="100"></p>
-  <p>Progress in Specialization Capstone<progress value="3" max="100"></p>
-  <p>Progress in life goals <progress value="25" max="100"></p>
+  <p>Progress in this course  <progress value="100" max="100"></p>
+  <p>Progress in Specialization Capstone  <progress value="5" max="100"></p>
+  <p>Progress in life goals  <progress value="35" max="100"></p>
 </section>
 <section><h4>More About Me</h4> 
 <h5>My Childhood</h5>
