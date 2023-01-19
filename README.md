@@ -5,7 +5,7 @@
 </head>
 <body>
  
-<h1 style="color:#008000" "font-family:'Courier New'">Rafael Gomes Camizão Lima</h1>
+<h1 style="color:#008000">Rafael Gomes Camizão Lima</h1>
 
 <section><b><h2>Favorite Foods</h2></b>
 <ol>
