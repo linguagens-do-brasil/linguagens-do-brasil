@@ -28,10 +28,10 @@
   <p>I was born in São Paulo - SP, Brazil, in jun 2000. I g.</p>
  </details></section>
 
-<footer>
+<section><footer>
 <img src="newlogo.png" alt="New Logo" width="300" height="200">
-<p>This site was created by Rafael Gomes Camizão and Colleen Van Lent. To learn more about web design, visit <a href=https://www.coursera.org/>Intro to Web Design.</a></p>
-</footer>
+<p>This site was created by Rafael Gomes Camizão and Colleen Van Lent. To learn more about web design, visit <a href=http://intro-webdesign.com>Intro to Web Design.</a></p>
+</footer></section>
   
 </body>
 </html>
