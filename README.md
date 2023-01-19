@@ -6,7 +6,7 @@
  
 <h1 style="color:#008000">Rafael Gomes Camizão Lima</h1>
 
-<section><h2>Favorite Foods</h2>
+<section><h2 style="color:#008000">Favorite Foods</h2>
 <ol>
   <li>Vegetables</li>
   <li>Pizza</li>
@@ -15,14 +15,14 @@
   <li>Torcida Snacks</li>
  </ol></section>
 
- <h3>Achieviments</h3>
- <section><ul>
-  <li><p>Progress in this course  <progress value="100" max="100"></p></li>
-  <li><p>Progress in Specialization Capstone  <progress value="5" max="100"></p></li>
-  <li><p>Progress in life goals  <progress value="35" max="100"></p></li>
+ <h3 style="color:#008000">Achieviments</h3>
+ <section><p><ul>
+  <li>Progress in this course  <progress value="100" max="100"></li>
+  <li>Progress in Specialization Capstone  <progress value="5" max="100"></li>
+  <li>Progress in life goals  <progress value="35" max="100"></li>
   </ul></section>
 
-<h4>More About Me</h4> 
+<h4 style="color:#008000">More About Me</h4> 
 <section><details>
   <summary>My Childhood</summary>
   <p>I was born in São Paulo - SP, Brazil, in jun 2000. I g.</p>
