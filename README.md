@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
- 
-<head>
-
+ <head>
+ <title>Linguagens do Brasil</title>
 </head>
 <body>
-<font
-      <h1 style="color:#008B8B"><p "font-family:'Courier New'">Rafael Gomes Camizão Lima</p></h1>
+ 
+<h1 style="color:#008B8B"><p "font-family:'Courier New'">Rafael Gomes Camizão Lima</p></h1>
 
 <section><b><h2>Favorite Foods</h2></b>
 <ol>
