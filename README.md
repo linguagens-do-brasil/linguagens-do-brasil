@@ -1,5 +1,7 @@
 
- <head>
+<!DOCTYPE html> 
+<head>
+ <title>Linguagens do Brasil</tittle>
 </head>
 <html>
 <body>
