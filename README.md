@@ -22,15 +22,14 @@
   <li>Progress in Specialization Capstone:   <progress value="5" max="100"></li>
   <li>Progress in life goals:   <progress value="35" max="100"></li>
   </ul></div>
-
-<h4 style="color:#008000">More About Me</h4> 
-<p>My Childhood</p>
-<p>I was born in São Paulo, Brazil, at the begining of XXI century, probably by noon (or it was, at least, in Brazil). I grow up in the south area of the city and had two little sisters, our lives was based on playing outside and watch cartoons and, occasionaly, we studied.</p>
+<div><h4 style="color:#008000">More About Me</h4>
  
-<h5><img src="newlogo.png" alt="New Logo" width="300" height="200"></h5>
-<p>This site was created by Rafael Camizão and Colleen Van Lent. To learn more about web design, visit <a> href=http://intro-webdesign.com>Intro to Web Design.</a></p>
+<p>My Childhood</p>
+<p>I was born in São Paulo, Brazil, at the begining of XXI century, probably by noon (or it was, at least, in Brazil). I grow up in the south area of the city and had two little sisters, our lives was based on playing outside and watch cartoons and, occasionaly, we studied.</p></div>
+ 
+<div><footer><h5><img src="newlogo.png" alt="New Logo" width="300" height="200"></h5>
+<p>This site was created by Rafael Camizão and Colleen Van Lent. To learn more about web design, visit <a> href=http://intro-webdesign.com>Intro to Web Design.</a></p></footer></div>
 
-<footer></footer>
 </body>
 </html>
 
