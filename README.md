@@ -1,6 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPEhtml>
  <head>
- <title>Linguagens do BR</title>
 </head>
 <html>
 <body>
@@ -16,14 +15,14 @@
   <li>Torcida Snacks</li>
  </ol></section>
 
- <h3 style="color:#008000">Achieviments</h3>
+ <h3>Achieviments</h3>
  <section><p><ul>
   <li>Progress in this course:   <progress value="100" max="100"></li>
   <li>Progress in Specialization Capstone:   <progress value="5" max="100"></li>
   <li>Progress in life goals:   <progress value="35" max="100"></li>
   </ul></section>
 
-<h4 style="color:#008000">More About Me</h4> 
+<h4>More About Me</h4> 
 
   <summary>My Childhood</summary><details>
   <p>I was born in São Paulo, Brazil, at the begining of XXI century, probably by noon (or it was, at least, in Brazil). I grow up in the south area of the city and had two little sisters, our lives was based on playing outside and watch cartoons and, occasionaly, we studied. </p>
