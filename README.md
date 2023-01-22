@@ -17,11 +17,11 @@
  </ol></section>
 
  <h3 style="color:#008000">Achieviments</h3>
- <section><p><ul>
+ <div><p><ul>
   <li>Progress in this course:   <progress value="100" max="100"></li>
   <li>Progress in Specialization Capstone:   <progress value="5" max="100"></li>
   <li>Progress in life goals:   <progress value="35" max="100"></li>
-  </ul></section>
+  </ul></div>
 
 <h4 style="color:#008000">More About Me</h4> 
 <p>My Childhood</p>
@@ -30,7 +30,7 @@
 <h5><img src="newlogo.png" alt="New Logo" width="300" height="200"></h5>
 <p>This site was created by Rafael Camizão and Colleen Van Lent. To learn more about web design, visit <a> href=http://intro-webdesign.com>Intro to Web Design.</a></p>
 
-<footer></>
+<footer></footer>
 </body>
 </html>
 
