@@ -1,4 +1,3 @@
-<!DOCTYPE html> 
 <html lang="en-us">
 <head>
   <title>Linguagens do Brasil</title>
