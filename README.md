@@ -3,16 +3,16 @@
   <title>Linguagens do Brasil</title>
 </head>
 <body>
-  <h1 style="color:#008000">Rafael Gomes Camizão Lima</h1>
+  <h1 style="color:#008000">Raphael Gomiz Kamisão Lima</h1>
 
   <section>
     <h2 style="color:#008000">Favorite Foods</h2>
     <ol>
-      <li>Vegetables</li>
-      <li>Pizza</li>
-      <li>Cheese Pastry</li>
-      <li>Sugar Cane Juice</li>
-      <li>Torcida Snacks</li>
+      <li>Vegetable 1</li>
+      <li>vegetable 2</li>
+      <li>vegetable 3</li>
+      <li>vegetable 4</li>
+      <li>vegetable 5</li>
     </ol>
   </section>
 
@@ -28,10 +28,7 @@
  
 <details>
  <summary>My Childhood</summary>
-<p>I was born in São Paulo, Brazil, at the begining of XXI century, probably by noon
-   (or it was, at least, in Brazil). I grow up in the south area of the city and had 
-   two little sisters, our lives was based on playing outside and watch cartoons and, 
-   occasionaly, we studied.</p>
+<p>I was born in São Paulo, Brazil, at the begining of XXI century, probably by noon.</p>
  </details>
  
 <footer>
